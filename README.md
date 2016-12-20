@@ -1,4 +1,4 @@
-file_statistic project
+fileStatistic project
 =================
 [![Build Status](https://travis-ci.org/OlexiyZh/fileStatistic.png)](https://travis-ci.org/OlexiyZh/fileStatistic)
 
