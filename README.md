@@ -1,6 +1,6 @@
 file_statistic project
 =================
-[![Build Status](https://travis-ci.org/OlexiyZh/home_projects.png)](https://travis-ci.org/OlexiyZh/home_projects)
+[![Build Status](https://travis-ci.org/OlexiyZh/fileStatistic.png)](https://travis-ci.org/OlexiyZh/fileStatistic)
 
 ---
 #### Task description:
